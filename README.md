@@ -109,7 +109,7 @@ To run this project on your system, ensure you have the following tools installe
 ### 1. Clone the Repository:
 Download or clone the source code from the project repository:
 ```bash
-git clone https://your-repository-url
+git clone https://github.com/NIDHAL198/castle-code-compiler
 cd castle_code_compiler
 ```
 
