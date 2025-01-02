@@ -1,0 +1,3 @@
+C:/Users/soft/Desktop/information_secrety/Project/reverce_ingnier_project/castle_code/CMakeFiles/output.exe.dir
+C:/Users/soft/Desktop/information_secrety/Project/reverce_ingnier_project/castle_code/CMakeFiles/edit_cache.dir
+C:/Users/soft/Desktop/information_secrety/Project/reverce_ingnier_project/castle_code/CMakeFiles/rebuild_cache.dir

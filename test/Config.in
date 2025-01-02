@@ -1,0 +1,4 @@
+db_type : postgress 
+db_name : export_import
+db_table_prefix  : test_
+db_port : 8080
